@@ -1,4 +1,5 @@
 Random Forest Classification and Evaluation
+
 This Python script demonstrates how to use a Random Forest Classifier to perform binary classification on a synthetic dataset, followed by evaluating the model using various metrics. The dataset is created using the make_classification function, and the Random Forest model is trained and tested on the dataset. The evaluation metrics include accuracy, precision, recall, F1 score, and ROC-AUC.
 
 Requirements
